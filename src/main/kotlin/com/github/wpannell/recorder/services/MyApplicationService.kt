@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wpannell.recorder.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wpannell.recorder.MyBundle
 
 class MyApplicationService {
 
